@@ -36,6 +36,10 @@ https://github.com/emmit02/Loan-System/assets/124037068/9cfb49c5-c0c6-4867-8ba4-
 
 
 
+https://github.com/emmit02/Loan-System/assets/124037068/2aed2056-f3e5-4ada-a4c7-f4539b5158b4
+
+
+
 https://github.com/emmit02/Loan-System/assets/124037068/47a0c34e-4730-43f1-b4d3-414d9cacf4e9
 
 
