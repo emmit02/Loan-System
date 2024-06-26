@@ -24,10 +24,17 @@ Frontend: JUnit, Jswing , Jframes
 
 Backend: Java
 
+
 Database: MySQL
 
 Authentication: smtp Elastic services (eg. :https://github.com/emmit02/signin_APIs)
 
 
 
+
+https://github.com/emmit02/Loan-System/assets/124037068/9cfb49c5-c0c6-4867-8ba4-d009bcfd02d8
+
+https://github.com/emmit02/Loan-System/assets/124037068/c2ef1da0-b5b3-42bf-9b1e-a72e330384a5
+
 The project is currentle at a scratch phase......
+
